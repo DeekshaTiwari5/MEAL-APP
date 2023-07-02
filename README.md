@@ -1,6 +1,7 @@
 # MEAL-APP
 The Meal App is a web application that allows users to search for and discover new meals and recipes. Users can search for meals by name, ingredient, or category, and can also save their favourite meals for quick access later. The app also includes a feature to watch recipe videos on youtube. This app is part of Coding Ninjas CC Course.
-#The Meal App
+
+
 This project is a web application that utilizes the power of vanilla JavaScript to provide a seamless user experience. The main feature of the app is its ability to search for food recipes using the Themealdb API. The API returns a variety of data related to the searched recipe, such as ingredients, instructions, and nutritional information. The app then displays this information in an easy-to-read format, allowing users to quickly find the recipe they are looking for.
 
 In addition to the search feature, the app also includes the ability for users to view details of the selected recipe. This includes a more in-depth look at the recipe's ingredients and instructions, as well as nutritional information. Users can also mark their favorite recipes for easy access in the future.
